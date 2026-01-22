@@ -1,0 +1,11 @@
+*.[oa]
+*.pyc
+*~
+.DS_Store
+build/
+docs/build/
+dist/
+MANIFEST
+minepy.egg-info
+.vscode
+.eggs
